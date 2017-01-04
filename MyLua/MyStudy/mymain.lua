@@ -27,3 +27,4 @@ NamedObject:HaHa()
 -- 这里加了一句注释
 
 print("dksfhkdshafjkhsdfsdf")
+print("happy new year")
