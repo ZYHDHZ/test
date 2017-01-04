@@ -14,6 +14,7 @@ end
 Accout={}
 function Accout:HaHa()
 	print(self.name)
+	print("hahhaa")
 end
 -- 这里又加了一句注释
 
