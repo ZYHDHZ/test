@@ -10,6 +10,7 @@ function Named:setname(n)
 end
 
 
+--还有一句
 Accout={}
 function Accout:HaHa()
 	print(self.name)
@@ -20,6 +21,7 @@ print("shfkjdskfjdsklfsdf")
 NamedAccout=createClass(Named,Accout)
 NamedObject=NamedAccout:new({name="zhongyuhan"})
 
+-- 这里又加了一句
 NamedObject:HaHa()
 
 -- 这里加了一句注释
