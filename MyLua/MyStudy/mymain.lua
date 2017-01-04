@@ -13,6 +13,7 @@ end
 Accout={}
 function Accout:HaHa()
 	print(self.name)
+	print("hahhaa")
 end
 
 NamedAccout=createClass(Named,Accout)
