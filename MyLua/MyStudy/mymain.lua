@@ -27,3 +27,4 @@ NamedObject:HaHa()
 -- 这里加了一句注释
 
 print("dksfhkdshafjkhsdfsdf")
+print("111111111111111111111")
